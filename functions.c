@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _printc - Print char
  * @c: char of the va_list
